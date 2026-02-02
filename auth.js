@@ -18,8 +18,4 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
       privateKey: process.env.AUTH_FIREBASE_PRIVATE_KEY,
     }),
   }),
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> b439a9d0621a3ea8508f611ebf20d98dd894d7a4

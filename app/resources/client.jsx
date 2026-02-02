@@ -98,8 +98,4 @@ const Client = ({ session }) => {
     )
 }
 
-<<<<<<< HEAD
 export default Client
-=======
-export default Client
->>>>>>> b439a9d0621a3ea8508f611ebf20d98dd894d7a4

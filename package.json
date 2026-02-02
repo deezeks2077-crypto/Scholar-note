@@ -20,10 +20,6 @@
     "react": "19.2.1",
     "react-dom": "19.2.1",
     "react-icons": "^5.5.0",
-<<<<<<< HEAD
-    "swr": "^2.3.8",
-=======
->>>>>>> b439a9d0621a3ea8508f611ebf20d98dd894d7a4
     "yup": "^1.7.1"
   },
   "devDependencies": {
