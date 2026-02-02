@@ -5,11 +5,6 @@ import { FaArrowLeft } from "react-icons/fa";
 import Link from 'next/link';
 
 const fetchSinglePost = async (id) => {
-try {
-import { FaArrowLeft } from "react-icons/fa6";
-import Link from 'next/link';
-
-const fetchSinglePost = async (id) => {
 
     try {
         const docRef = doc(db, "researches", id);
@@ -53,7 +48,7 @@ const Page = async ({ params }) => {
                 </span>
             </section>
         </main>
-    );
-};
+    ); 
+}
 
-export default fetchSinglePost
+export default Page;
