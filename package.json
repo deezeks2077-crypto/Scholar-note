@@ -1,0 +1,33 @@
+{
+  "name": "scholarnote",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@auth/firebase-adapter": "^2.11.1",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.7",
+    "firebase": "^12.8.0",
+    "firebase-admin": "^13.6.0",
+    "formik": "^2.4.9",
+    "next": "16.0.10",
+    "next-auth": "^5.0.0-beta.30",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "react-icons": "^5.5.0",
+<<<<<<< HEAD
+    "swr": "^2.3.8",
+=======
+>>>>>>> b439a9d0621a3ea8508f611ebf20d98dd894d7a4
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
